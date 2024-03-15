@@ -11,7 +11,7 @@ I'm Diego Lima!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLima2018&layout=compact)](https://github.com/DiegoLima2018/github-readme-stats)
 
 
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></code>
@@ -22,5 +22,3 @@ I'm Diego Lima!!
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 
 - Thanks for visiting. 
- 
-- Enjoy it!! 🤖
